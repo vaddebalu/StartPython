@@ -27,4 +27,7 @@ print(commonfruits)
 onlyfruits=fruits^newfruits
 print(onlyfruits)
 
+fruits.remove(10)
+print(fruits)
+
 
