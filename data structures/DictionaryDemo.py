@@ -33,3 +33,7 @@ print(fruits)
 #has key
 
 print('watermelon' in fruits)
+
+print("Iterating dictionaries ...")
+for key,value in fruits.items():
+    print(key,value)
