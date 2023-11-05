@@ -8,4 +8,5 @@ class Vehicle:
         self.name=name
     def wheels(self):
         pass
-
+    def transportType(self):
+        pass
